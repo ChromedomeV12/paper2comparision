@@ -8,20 +8,20 @@ Download a copy of this chart and make it shareable with a partner or as a group
 
 ## Literary Elements or Points of Comparison
 
-| Literary Elements or Points of Comparison | [Text A Title and Author] | [Text B Title and Author] |
-|---|---|---|
-| **Author** (significant details) | | |
-| **Setting** (+ social / historical / political context) | | |
-| **Themes & Deeper Ideas** - What messages are shared through these texts? (How X leads to Y) | | |
-| **Conflicts**<br>• Individual vs individual<br>• Individual vs society<br>• Individual vs himself/herself | | |
-| **Genre & Conventions** - Leading authorial choices of this literary form (visual, dramatic, narrative methods etc) | | |
-| **Characterisation** - HOW writers construct their characters through:<br>• Action<br>• Dialogue<br>• Description etc. | | |
-| **Symbols / Motifs** | | |
-| **Tone / Mood / Atmosphere** "hot spots" | | |
-| **Flashbacks / Foreshadowing** | | |
-| **Moments of "Enlightenment" / Epiphanies** - What does the main character learn? | | |
-| **Conclusion / Resolution** | | |
-| **"Snippets"** - Short, useful quotes to keep in your back pocket | | |
+| Literary Elements or Points of Comparison                                                                              | [A Doll's House - Henrik Ibsen] | [Text B Title and Author] |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ------------------------- |
+| **Author** (significant details)                                                                                       |                                 |                           |
+| **Setting** (+ social / historical / political context)                                                                |                                 |                           |
+| **Themes & Deeper Ideas** - What messages are shared through these texts? (How X leads to Y)                           |                                 |                           |
+| **Conflicts**<br>• Individual vs individual<br>• Individual vs society<br>• Individual vs himself/herself              |                                 |                           |
+| **Genre & Conventions** - Leading authorial choices of this literary form (visual, dramatic, narrative methods etc)    |                                 |                           |
+| **Characterisation** - HOW writers construct their characters through:<br>• Action<br>• Dialogue<br>• Description etc. |                                 |                           |
+| **Symbols / Motifs**                                                                                                   |                                 |                           |
+| **Tone / Mood / Atmosphere** "hot spots"                                                                               |                                 |                           |
+| **Flashbacks / Foreshadowing**                                                                                         |                                 |                           |
+| **Moments of "Enlightenment" / Epiphanies** - What does the main character learn?                                      |                                 |                           |
+| **Conclusion / Resolution**                                                                                            |                                 |                           |
+| **"Snippets"** - Short, useful quotes to keep in your back pocket                                                      |                                 |                           |
 
 ---
 
